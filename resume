@@ -1,41 +1,202 @@
-<div id="header"></div>
-<div class="left"></div>
-<div class="stuff">
-  <br><br>
-  <h1>Resume</h1>
-  <h2>Donal Cook</h2>
-  <hr />
-  <br>
-  <p class="head">Summary of Qualifications</p>
-  <ul>
-    <li>Subject Matter Expert on multiple sensor system software suites from requirements to integration, configuration, and collection</li>
-    <li>Over 6 years’ experience in administrating Windows and Linux operating systems</li>
-  </ul>
-  <p class="head">Skills</p>
-  <ul>
-    <li>Experience/knowledge of IT principles and practices</li>
-    <li>Experience writing technical documentation, Standard Operating Procedures (SOPs) and creating training materials </li>
-    <li>Strong problem-solving, organizational, and verbal/written communication skills </li>
-  </ul>
-  <p class="head">Education and Certifications</p>
-  <ul>
-    <a href="https://www.credly.com/badges/e4ba3585-71ab-4983-b683-a83dcf079154/public_url">
-      <li>AWS Certified Solutions Architect – Associate</li>
-    </a>
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e4ba3585-71ab-4983-b683-a83dcf079154" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
 
-    <!--Link-->
-    <a href="https://www.silvermineart.org/">
-      <li>Silvermine School of Arts</li>
-    </a>
-  </ul>
-  <p class="head">Systems Experience</p>
-  <ul>
-    <li>Operating Systems: Red Hat Enterprise Linux, CentOS, Windows 10, Windows Server</li>
-    <li>Networking Equipment: HPE Mellanox L3 Switches, Cisco L3 Switches, Extreme Networks, Cisco ASAs, Cisco Routers</li>
-    <li>Microsoft Suite: Word, Excel, PowerPoint, Visio </li>
-  </ul>
-</div>
-<div class="right"></div>
-<div id="footer">
-  <h2 id="name">Emily</h2></div>
+	<title>Donal Cook | Systems Engineer | cookdonal@gmail.com</title>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+	<meta name="keywords" content="" />
+	<meta name="description" content="" />
+
+	<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.7.0/build/reset-fonts-grids/reset-fonts-grids.css" media="all" /> 
+	<link rel="stylesheet" type="text/css" href="resume.css" media="all" />
+
+</head>
+<body>
+
+<div id="doc2" class="yui-t7">
+	<div id="inner">
+	
+		<div id="hd">
+			<div class="yui-gc">
+				<div class="yui-u first">
+					<h1>Donal Cook</h1>
+					<h2>Systems Engineer</h2>
+				</div>
+
+				<div class="yui-u">
+					<div class="contact-info">
+						<h3><a id="pdf" href="#">Download PDF</a></h3>
+						<h3><a href="mailto:cookdonal@gmail.com">cookdonal@gmail.com</a></h3>
+						<h3>(540) 335-6272</h3>
+					</div><!--// .contact-info -->
+				</div>
+			</div><!--// .yui-gc -->
+		</div><!--// hd -->
+
+		<div id="bd">
+			<div id="yui-main">
+				<div class="yui-b">
+
+					<div class="yui-gf">
+						<div class="yui-u first">
+							<h2>Summary Of Qualifications</h2>
+						</div>
+						<div class="yui-u">
+							<p class="enlarge">
+								<li>Subject Matter Expert on multiple sensor system software suites from requirements to integration, configuration, and collection</li>
+								<li>Over 6 years’ experience in administrating Windows and Linux operating systems</li>
+							</p>
+						</div>
+					</div><!--// .yui-gf -->
+
+					<div class="yui-gf">
+						<div class="yui-u first">
+							<h2>Specialized Skills</h2>
+						</div>
+						<div class="yui-u">
+
+								<div class="talent">
+									<p>Experience/knowledge of IT principles and practices</p>
+								</div>
+
+								<div class="talent">
+									<p>Experience writing technical documentation, Standard Operating Procedures (SOPs) and creating training materials</p>
+								</div>
+
+								<div class="talent">
+									<p>"Hands-on" experience developing, integrating, and configuring systems for Airborne ISR programs and sensors</p>
+								</div>
+								
+								<div class="talent">
+									<p>Strong problem-solving, organizational, and verbal/written communication skills</p>
+								</div>
+						</div>
+					</div><!--// .yui-gf -->
+
+					<div class="yui-gf">
+						<div class="yui-u first">
+							<h2>Systems Experience</h2>
+						</div>
+						<div class="yui-u">
+							<ul class="talent">
+								<li>Red Hat Enterprise Linux</li>
+								<li>CentOS</li>
+								<li>Windows 10</li>
+								<li class="last">Windows Server</li>
+							</ul>
+
+							<ul class="talent">
+								<li>HPE Mellanox Switches</li>
+								<li>Cisco Switches Routers</li>
+								<li>Extreme Networks </li>
+								<li class="last">Cisco ASA Firewalls</li>
+							</ul>
+
+							<ul class="talent">
+								<li>Word</li>
+								<li>Excel</li>
+								<li>PowerPoint</li>
+								<li class="last">Visio</li>
+							</ul>
+						</div>
+					</div><!--// .yui-gf-->
+
+					<div class="yui-gf last">
+						<div class="yui-u first">
+							<h2>Education and Accomplishments</h2>
+						</div>
+						<div class="yui-u">
+							<ul>
+								<a href="https://www.credly.com/badges/e4ba3585-71ab-4983-b683-a83dcf079154/public_url">
+									 <li>AWS Certified Solutions Architect – Associate</li>
+								</a>
+								 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e4ba3585-71ab-4983-b683-a83dcf079154" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+								<!--Link-->
+								<a href="https://www.credly.com/badges/fa7b35b1-e9db-44cc-81c1-b9d4e2310e09/public_url">
+									<li>AWS Certified Cloud Practitioner</li>
+								</a>
+								<a href="https://www.credly.com/badges/b131ef2f-3033-4cb2-bb47-52e6e44f95a0/public_url">
+									<li>CompTIA Security+ ce Certification</li>
+								</a>
+							</ul>
+						</div>
+					</div><!--// .yui-gf -->
+
+
+					<div class="yui-gf">
+	
+						<div class="yui-u first">
+							<h2>Experience</h2>
+						</div><!--// .yui-u -->
+
+						<div class="yui-u">
+
+							<div class="job">
+								<h2>Systems Engineer</h2>
+								<h3>Leidos</h3>
+								<h4>6/2020 - Present</h4>
+								<li>Deployed, hardened, and maintained multiple computing environments from the ground up consisting of RedHat Linux physical servers and virtual machines, CentOS servers, Windows 10 workstations, VMWare ESXi Hypervisor, Zero Cleints, and vCenter Servers</li>
+								<li>Worked with Linux Docker containers, Kernel updates, and Device drivers</li>
+								<li>Created Batch and Python scripts</li>
+								<li>Integrated physical computing hardware including HPE Edgeline Converged Edge Systems, Dell PowerEdge Servers, Nvidia GPUs, Supermicro Motherboards, and RAID controllers</li>
+								<li>Integrated and maintained Sensor Open Systems Architecture (SOSA) chassis consisting of multiple Radio Frequency payload cards, Single Board Computers, Networking, and PCIe Cards. </li>
+								<li>Integrated and maintained PRC-117g, ARC-210, KOR-24A Small Tactical Terminal (STT) radios</li>
+								<li>X</li>
+								<li>Created numerous networks using Layer 3 Cisco Switches, HPE Mellanox switches, Satellite Communications (SATCOM) radios</li>
+								<li>Provided network security by deploying Cisco ASA Firewalls, Taclane Encryptors, and hardening.</li>
+								<li>Utilized networking knowledge of Routing protocols, Network Address Translation (NAT), Maximum Transmission Unit (MTU) sizes, and Virtual Local Area Networks (VLANs) to establish secure data networking across multiple routes</li>
+								<li>X</li>
+								<li>Implemented DISA Security Technical Implementation Guides (STIGs) & Collaborative Security Solutions (CS2) packages to ensure security compliance </li>
+								<li>Documented software versions, network ports and protocols, operating procedures</li>
+								<li>Successfully implemented Risk Management Framework (RMF) to achieve an Authority To Operate (ATO)</li>
+								<li>X</li>
+								<li>X</li>
+								<li>X</li>
+								<li>X</li>
+								<li>X</li>
+								<li>X</li>
+							</div>
+
+							<div class="job">
+								<h2>Apple Inc.</h2>
+								<h3>Senior Interface Designer</h3>
+								<h4>2005-2007</h4>
+								<p>Progressively reconceptualize multifunctional "outside the box" thinking through inexpensive methods of empowerment. Compellingly morph extensive niche markets with mission-critical ideas. Phosfluorescently deliver bricks-and-clicks strategic theme areas rather than scalable benefits. </p>
+							</div>
+
+							<div class="job">
+								<h2>Microsoft</h2>
+								<h3>Principal and Creative Lead</h3>
+								<h4>2004-2005</h4>
+								<p>Intrinsicly transform flexible manufactured products without excellent intellectual capital. Energistically evisculate orthogonal architectures through covalent action items. Assertively incentivize sticky platforms without synergistic materials. </p>
+							</div>
+
+
+							<div class="job last">
+								<h2>International Business Machines (IBM)</h2>
+								<h3>Lead Web Designer</h3>
+								<h4>2001-2004</h4>
+								<p>Globally re-engineer cross-media schemas through viral methods of empowerment. Proactively grow long-term high-impact human capital and highly efficient innovation. Intrinsicly iterate excellent e-tailers with timely e-markets.</p>
+							</div>
+
+						</div><!--// .yui-u -->
+					</div><!--// .yui-gf -->
+
+				</div><!--// .yui-b -->
+			</div><!--// yui-main -->
+		</div><!--// bd -->
+
+		<div id="ft">
+			<p>Jonathan Doe &mdash; <a href="mailto:name@yourdomain.com">name@yourdomain.com</a> &mdash; (313) - 867-5309</p>
+		</div><!--// footer -->
+
+	</div><!-- // inner -->
+
+
+</div><!--// doc -->
+
+
+</body>
+</html>
+
